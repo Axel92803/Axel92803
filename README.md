@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a passionate software engineering student at **42 London**, diving deep into the world of C programming and building a strong foundation in low-level systems programming. Currently navigating the challenging yet rewarding peer-to-peer learning environment that 42 is known for.
+I'm a passionate software engineering student at **42 London**, diving deep into the world of C programming and building a strong foundation in low-level systems programming. Currently navigating the challenging yet rewarding peer-to-peer learning environment of the 42 model.
 
 ## 🔧 What I'm Working On
 - Mastering C programming fundamentals through hands-on projects at 42 London
@@ -9,13 +9,13 @@ I'm a passionate software engineering student at **42 London**, diving deep into
 
 ## 🎯 My Interests
 - **Low-level Programming**: The beauty of C and how it interfaces with hardware
-- **Robotics**: Building intelligent systems that interact with the physical world
+- **Robotics**: Building intelligent systems that can interact with the physical world
 - **Embedded Systems**: Creating efficient solutions for resource-constrained environments
 - **Data Science**: Extracting insights and meaning from complex datasets
 - **Statistics**: The mathematical foundation that drives data-driven decisions
 
 ## 🌱 Currently Learning
-As a beginner in this exciting field, I'm constantly expanding my knowledge through:
+As a beginner in this field, I'm constantly expanding my knowledge through:
 - Rigorous coding challenges and peer collaboration at 42
 - Personal projects that blend my interests in hardware and software
 - Exploring the intersection of embedded systems and data analysis
