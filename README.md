@@ -1,4 +1,4 @@
-Hi there! 👋
+## Hi there! 👋
 I'm a passionate software engineering student at 42 London, diving deep into the world of C programming and building a strong foundation in low-level systems programming. Currently navigating the challenging yet rewarding peer-to-peer learning environment that 42 is known for.
 🔧 What I'm Working On
 
