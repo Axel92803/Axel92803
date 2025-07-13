@@ -34,5 +34,7 @@ I believe in the power of combining low-level programming efficiency with high-l
 
 ---
 
+![Codewars](https://www.codewars.com/users/Axel92803/badges/large)
+
 Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or discuss any of these fascinating topics!
 
