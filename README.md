@@ -24,6 +24,7 @@ As a beginner in this field, I'm constantly expanding my knowledge through:
 I believe in the power of combining low-level programming efficiency with high-level data insights. Whether it's optimizing embedded code or uncovering patterns in datasets, I'm driven by the challenge of making complex systems work elegantly.
 
 ## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
