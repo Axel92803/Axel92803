@@ -1,41 +1,127 @@
-# Hi there! 👋
+# Hi, I'm Alex Tanvuia 👋
 
-I'm a passionate software engineering student at **42 London**, diving deep into the world of C programming and building a strong foundation in low-level systems programming. Currently navigating the challenging yet rewarding peer-to-peer learning environment of the 42 model.
+**Computer Science Student @ 42 London | Systems Programmer | Data Enthusiast**
 
-## 🔧 What I'm Working On
-- Mastering C programming fundamentals through hands-on projects at 42 London
-- Exploring the intricate world of **robotics** and **embedded systems**
-- Delving into **statistics** and **data science** to understand patterns in data
+Building robust, efficient software through intensive peer-to-peer learning at 42 London. Combining low-level systems programming expertise with data analytics experience to solve complex technical challenges.
 
-## 🎯 My Interests
-- **Low-level Programming**: The beauty of C and how it interfaces with hardware
-- **Robotics**: Building intelligent systems that can interact with the physical world
-- **Embedded Systems**: Creating efficient solutions for resource-constrained environments
-- **Data Science**: Extracting insights and meaning from complex datasets
-- **Statistics**: The mathematical foundation that drives data-driven decisions
+## 🔥 Current Focus
 
-## 🌱 Currently Learning
-As a beginner in this field, I'm constantly expanding my knowledge through:
-- Rigorous coding challenges and peer collaboration at 42
-- Personal projects that blend my interests in hardware and software
-- Exploring the intersection of embedded systems and data analysis
+- 🎯 **Advancing through 42 London's Core Curriculum** (50% complete)
+  - Mastering C systems programming and Unix fundamentals
+  - Progressing into **Object-Oriented Programming with Python** module
+  - Exploring algorithms, data structures, and network architecture
+- 💻 **Expanding tech stack**: Transitioning from C to Python, C++, and modern frameworks
+- 📊 **Building data analytics portfolio** combining hospitality operations experience with technical skills
+- 🎮 **Next milestone**: ft_transcendence (full-stack web application with real-time features)
 
-## 📊 My Philosophy
-I believe in the power of combining low-level programming efficiency with high-level data insights. Whether it's optimizing embedded code or uncovering patterns in datasets, I'm driven by the challenge of making complex systems work elegantly.
+## 💡 What Makes 42 Different
+
+At 42 London, I'm learning through:
+- **Project-based mastery**: No lectures or teachers—just hands-on coding challenges
+- **Peer-to-peer collaboration**: Building real-world teamwork and code review skills
+- **Gamified progression**: Earning XP and unlocking increasingly complex projects
+- **Branching curriculum**: Choose specializations in web dev, algorithms, graphics, security, or data science
+
+### 42's Modern Curriculum Path
+
+**Phase 1: Foundation (C Programming)** ✅ In Progress
+- Unix systems, shell scripting, memory management
+- Core projects: Libft, Printf, Get Next Line, Minitalk
+
+**Phase 2: Object-Oriented Programming (Python)** 🔄 Next
+- Modern software design principles: classes, inheritance, design patterns
+- Data manipulation, visualization, and analytics
+- Building interactive applications and games
+
+**Phase 3: Advanced Specializations** 📚 Upcoming
+- Algorithms & Data Structures
+- Web Development (Full-stack)
+- Network Architecture & Systems Administration
+- AI/ML fundamentals
+- Cybersecurity
+
+## 💼 Professional Background
+
+Beyond coding, I bring **practical experience optimizing complex systems**:
+- **Modernized legacy infrastructure** → improved operational efficiency by 35%
+- **Implemented data-driven strategies** → contributed to 23% sales increase
+- **Maintained 99%+ system uptime** for critical business operations
+- **Led process optimization projects** using DMAIC and KAIZEN methodologies
+
+This unique blend of technical training and real-world operational experience means I approach software development with both engineering rigor and business impact in mind.
+
+→ [View my complete CV/experience](https://linkedin.com/in/ionut-alexandru-tanvuia-83033b264/)
 
 ## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📫 How to reach me
+**Core Languages:** C • Python • C++ • Java • JavaScript  
+**Systems & Tools:** Linux/Unix • Git • MySQL • Shell Scripting • API Integration  
+**Methodologies:** Peer Review • Test-Driven Development • Agile Workflows  
+**Focus Areas:** Systems Programming • Algorithms • Data Analytics • Process Optimization
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Axel92803&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Axel92803&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Axel92803&theme=radical&hide_border=true)
+
+## 🚀 Featured Projects
+
+### [ft_printf](https://github.com/Axel92803/Printf) 
+Complete reimplementation of printf from scratch. Handles complex format specifiers, variadic functions, and edge cases without using standard printf.  
+`C` • `Variadic Functions` • `Type Casting` • `Buffer Management`
+
+### [Minitalk](https://github.com/Axel92803/Minitalk)
+Client-server communication system using UNIX signals. Demonstrates inter-process communication, bit manipulation, and signal handling.  
+`C` • `UNIX Signals` • `IPC` • `Binary Operations`
+
+### [Get Next Line](https://github.com/Axel92803/GNL)
+Efficient file reading function with intelligent buffer management. Handles multiple file descriptors simultaneously with memory optimization.  
+`C` • `File I/O` • `Static Variables` • `Memory Management`
+
+### [Libft](https://github.com/Axel92803/Libft)
+Custom implementation of 40+ essential C standard library functions. Foundation for all subsequent 42 projects.  
+`C` • `String Manipulation` • `Memory Functions` • `Linked Lists`
+
+## 🎯 Career Goals
+
+Seeking **Graduate Software Developer** roles where I can apply systems-level thinking to solve complex problems. Particularly interested in:
+
+- **Quantitative Trading Systems** - High-performance, low-latency applications
+- **Data-Intensive Infrastructure** - Processing and analyzing large-scale datasets
+- **Fintech & Financial Services** - Building robust, scalable trading platforms
+- **Algorithmic Problem Solving** - Optimization and computational efficiency
+
+## 🏆 Continuous Learning
+
+**Active Practice:**
+[![Codewars](https://www.codewars.com/users/Axel92803/badges/large)](https://www.codewars.com/users/Axel92803)
+
+**Current Learning Path (2025-2026):**
+- ✅ C systems programming and Unix fundamentals
+- 🔄 Python OOP and data manipulation (starting Q1 2026)
+- 📚 Advanced algorithms and data structures
+- 📚 Web development and full-stack applications
+- 🎯 Preparing for roles in systematic trading technology
+
+## 🌍 Why I'm Different
+
+**Interdisciplinary Background:** BA in Anthropology gives me unique insight into pattern recognition and human behavior—valuable for data analysis and user-centric development.
+
+**Operational Excellence:** 2+ years managing high-pressure systems means I understand performance under constraints, uptime requirements, and rapid problem-solving.
+
+**Self-Directed Learner:** 42's peer-learning model proves I can independently master new technologies and collaborate effectively without traditional instruction.
+
+## 📫 Let's Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ionut-alexandru-tanvuia-83033b264/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ionut.a.tanvuia@gmail.com)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Axel92803)
 
 ---
 
-![Codewars](https://www.codewars.com/users/Axel92803/badges/large)
+*"Building the foundation for high-performance systems, one project at a time."*
 
-Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or discuss any of these fascinating topics!
-
+📍 London, UK | 🎓 42 London | 💼 Open to 2026 Graduate Opportunities
