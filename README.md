@@ -60,13 +60,10 @@ This unique blend of technical training and real-world operational experience me
 **Focus Areas:** Systems Programming • Algorithms • Data Analytics • Process Optimization
 
 ## 📊 GitHub Activity
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Axel92803&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Axel92803&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel92803&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axel92803&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel92803&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 ## 🚀 Featured Projects
