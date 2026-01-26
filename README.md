@@ -96,7 +96,7 @@ Seeking **Graduate Software Developer** roles where I can apply systems-level th
 ## 🏆 Continuous Learning
 
 **Active Practice:**
-[![Codewars](https://www.codewars.com/users/Axel92803/badges/large)](https://www.codewars.com/users/Axel92803)
+[![Codewars](https://www.codewars.com/users/xandr.exe/badges/large)](https://www.codewars.com/users/xandr.exe)
 
 **Current Learning Path (2025-2026):**
 - ✅ C systems programming and Unix fundamentals
