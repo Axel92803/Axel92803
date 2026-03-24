@@ -75,7 +75,7 @@ This unique blend of technical training and real-world operational experience me
   </a>
 
   <!-- Row 2: Activity Graph (full width) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Axel92803&theme=redical&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Axel92803&theme=redical&hide_border=true&area=true" alt="Activity Graph" width="90%" />
 
   <br/><br/>
 
