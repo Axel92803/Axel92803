@@ -61,9 +61,35 @@ This unique blend of technical training and real-world operational experience me
 
 ## 📊 GitHub Activity
 
+<!-- ── Stats & Activity ─────────────────────────────────────── -->
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Axel92803&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel92803&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+
+  <br/><br/>
+  <!-- Row 1: Streak + Top Languages side by side -->
+  <a href="#">
+    <img src="https://streak-stats.demolab.com?user=Axel92803&theme=radical&hide_border=true" alt="GitHub Streak" height="195"/>
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel92803&layout=donut&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="195" />
+  </a>
+
+  <!-- Row 2: Activity Graph (full width) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Axel92803&theme=redical&hide_border=true&area=true" alt="Activity Graph" width="76%" />
+
+  <br/><br/>
+
+  <!-- Tech Stack -->
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+  ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+
 </div>
 
 ## 🚀 Featured Projects
